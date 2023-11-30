@@ -1,0 +1,8 @@
+- [x] Send workspace name via metadata on deployment (show if renamed)
+- [x] Form webapp first option
+- [] Check deployment state parse
+- [x] Check decision services
+- [x] Form webapp image on about modal
+- [x] Add deployment ID to deployment list
+- [x] Quarkus App '?'
+- [x] Parse openapi spec and get $refs
